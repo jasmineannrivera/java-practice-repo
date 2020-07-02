@@ -25,7 +25,6 @@ public class FizzBuzz {
 
 
     //avg of all numbers in array list
-    public static double avg (List<>)
 
 
 
