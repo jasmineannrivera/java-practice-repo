@@ -1,3 +1,5 @@
+package TechnicalInterviewPrep;
+
 import java.util.Scanner;
 
 public class ConsoleExercises {

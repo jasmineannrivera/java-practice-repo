@@ -1,4 +1,4 @@
-//Take an array of numbers and create new sub arrays. Each sub array must equal the same value. Use all numbers only once.
+package TechnicalInterviewPrep;//Take an array of numbers and create new sub arrays. Each sub array must equal the same value. Use all numbers only once.
 
 public class Arrays {
     // Returns split point. If
